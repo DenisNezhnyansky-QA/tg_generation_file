@@ -52,4 +52,4 @@ python3 main.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Денис Нежнянский ([@nezhnyansky](https://t.me/nezhnyansky))
